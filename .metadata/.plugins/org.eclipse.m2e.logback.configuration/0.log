@@ -419,3 +419,10 @@ java.io.FileNotFoundException: no segments* file found in org.apache.lucene.stor
 2018-02-13 15:01:58,196 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2018-02-13 15:01:58,198 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-02-13 15:01:58,199 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OneDrive\Documents\Cours UQAC\Semestre 2\Patron&Modèles\TP2\TP2_Patrons_-_Mod-les\Question_1\src\test\resources
+2018-02-13 15:03:40,803 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE-sources.jar
+2018-02-13 15:03:42,163 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE-sources.jar
+2018-02-13 15:03:42,267 [Worker-9] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.0.3.RELEASE
+2018-02-13 15:03:42,402 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 15:03:42,403 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-13 15:03:42,405 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 15:03:42,406 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OneDrive\Documents\Cours UQAC\Semestre 2\Patron&Modèles\TP2\TP2_Patrons_-_Mod-les\Question_1\src\test\resources
